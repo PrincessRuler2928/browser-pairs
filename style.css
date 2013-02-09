@@ -101,14 +101,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://wallpaperscraft.com/image/brad_pitt_actor_man_smile_celebrity_hollywood_18951_256x256.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://media1.picsearch.com/is?gkf81hUSlWM1lX1xISwuensLbbpRk2DldetkrIc0sYw) no-repeat; background-size: contain;}
+.cr {background: url(https://twimg0-a.akamaihd.net/profile_images/2904485755/7ba96106d15a530d0dd09edf983a4838.jpeg) no-repeat; background-size: contain;}
+.sf {background: url(https://twimg0-a.akamaihd.net/profile_images/3074320376/7bf5e4d2c3a8da95af7395a8ec0ba269.jpeg) no-repeat; background-size: contain;}
+.op {background: url(http://media1.picsearch.com/is?gkf81hUSlWM1lX1xISwuensLbbpRk2DldetkrIc0sYw) no-repeat; background-size: contain;}
+.ns {background: url(http://wallpaperscraft.com/image/brad_pitt_actor_man_smile_celebrity_hollywood_18951_256x256.jpg) no-repeat; background-size: contain;}
+.tb {background: url(https://twimg0-a.akamaihd.net/profile_images/3074320376/7bf5e4d2c3a8da95af7395a8ec0ba269.jpeg) no-repeat; background-size: contain;}
+.fm {background: url(https://twimg0-a.akamaihd.net/profile_images/2904485755/7ba96106d15a530d0dd09edf983a4838.jpeg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
