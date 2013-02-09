@@ -180,7 +180,7 @@ body {
 
 /* The #gameComplete element holds the screen that shows when you finish the game */
 #gameComplete {
-  background: url(./images/end.png) center 0 no-repeat;
+  background: url(http://25.media.tumblr.com/tumblr_lyfwz9upLe1rn5lxso1_1280.jpg center 0 no-repeat;
   text-align: center;
   position: absolute;
   margin: 10px;
